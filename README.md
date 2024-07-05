@@ -1,4 +1,4 @@
-# Building a SOC + Honeynet in Azure (Live Traffic)
+# Building a SOC + Honeypot in Azure (Live Traffic)
 ![image](https://github.com/Scar-Op/Azure-Honeynet-Project/assets/158982947/680b9bb4-89ad-4038-ab75-79b210580057)
 
 
