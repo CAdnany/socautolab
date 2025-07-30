@@ -1,27 +1,21 @@
-# PROJECTNAME
-### SOC Automation Lab 
+### **SOC Automation Lab**
 
-**Project Objective:**  
-Build a fully functional SOC lab to simulate real-world incident detection, automation, and response workflows while enhancing cybersecurity analysis and troubleshooting skills.
+🚀 **SOC Automation Lab Project Completed**
 
-**Skills Learned:**  
-- SOC architecture design and data flow mapping  
-- SIEM deployment and event log analysis (Wazuh)  
-- Security Orchestration and Automation (Shuffle SOAR)  
-- Case management and alert triage (TheHive)  
-- Incident response playbook development and containment actions  
-- Diagramming and documentation for technical interviews  
+I recently built a fully functional **Security Operations Center (SOC) Automation Lab**, designed to simulate real-world cybersecurity operations.
 
-**Tools Used:**  
-- **Wazuh:** Event collection, alert generation, and endpoint response  
-- **Shuffle SOAR:** Automated alert enrichment and response actions  
-- **TheHive:** Case management and analyst workflow support  
-- **Draw.io:** Network diagramming for SOC architecture  
-- **Windows 10:** Endpoint telemetry source
+🔑 **Key Skills Developed:**
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-Every screenshot should have some text explaining what the screenshot is about.
-Example below.
+- Designed and diagrammed a complete SOC environment from scratch
+    
+- Configured **Wazuh** for event collection and integrated **SOAR automation** with **Shuffle**
+    
+- Implemented **case management** using **TheHive** for alert triage and response
+    
+- Mapped and automated incident workflows from detection to containment
+    
+- Strengthened troubleshooting and research skills through hands-on scenarios
+    
+🛠️ **Tools Used:** Wazuh | Shuffle | TheHive | draw.io | Windows 10
 
-*Ref 1: Network Diagram*
+✅ **Outcome:** Gained practical, end-to-end SOC experience—covering monitoring, alert enrichment, case handling, and automated response actions—boosting my confidence in both technical skills and interview readiness for cybersecurity analyst roles.
