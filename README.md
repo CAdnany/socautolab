@@ -1,31 +1,27 @@
 # PROJECTNAME
+### SOC Automation Lab 
 
-## Objective
-[Brief Objective - Remove this afterwards]
+**Project Objective:**  
+Build a fully functional SOC lab to simulate real-world incident detection, automation, and response workflows while enhancing cybersecurity analysis and troubleshooting skills.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+**Skills Learned:**  
+- SOC architecture design and data flow mapping  
+- SIEM deployment and event log analysis (Wazuh)  
+- Security Orchestration and Automation (Shuffle SOAR)  
+- Case management and alert triage (TheHive)  
+- Incident response playbook development and containment actions  
+- Diagramming and documentation for technical interviews  
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
-### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+**Tools Used:**  
+- **Wazuh:** Event collection, alert generation, and endpoint response  
+- **Shuffle SOAR:** Automated alert enrichment and response actions  
+- **TheHive:** Case management and analyst workflow support  
+- **Draw.io:** Network diagramming for SOC architecture  
+- **Windows 10:** Endpoint telemetry source
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
-
 Every screenshot should have some text explaining what the screenshot is about.
-
 Example below.
 
 *Ref 1: Network Diagram*
